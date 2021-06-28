@@ -1,6 +1,5 @@
-[![My Discord](https://discord.giornosmp.com/)](https://discord.giornosmp.com/)
-[![Website](https://giornosmp.com)](https://giornosmp.com)
-[![YouTube](https://giornosmp.com/youtube)](https://giornosmp.com/youtube)
+[![My Discord](https://raw.githubusercontent.com/giorno420/RickrollingSeries/main/img/discordlogo.svg)](https://discord.giornosmp.com/)
+
 
 # Rickrolling Series
 The Rickrolling programs I used for my YouTube <a href="https://giornosmp.com/youtube/">videos</a>
