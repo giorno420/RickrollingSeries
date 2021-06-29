@@ -12,4 +12,4 @@
 
    Use external tools like <a href="http://www.angusj.com/resourcehacker/">Resource Hacker</a> to change the file's default PyInstaller logo
 
-### HAPPY RICKROLLING
+### HAPPY RICKROLLING   
