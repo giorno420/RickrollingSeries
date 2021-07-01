@@ -16,6 +16,11 @@ The RickRoll Android app is made using the Kivy android app framework for Python
 ### RickRoll.exe
 This one's the best one yet. You can rename the file to, welp, basically ANYTHING and no one would think anything. It works exactly like the apk version, but its for Windows, and it deletes itself right after you run it :D
 
+### Rickroll.png
+This challenge was the epicest. I made a QR code, which when you scan, redirects you to a rickroll! This by far is the most easiest to use, as no one doubts QR codes :D
+
+**Godmode:** Print this QR code out and stick this at random areas in your city
+
 
 
 
