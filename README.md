@@ -1,4 +1,4 @@
-[![My Discord](https://raw.githubusercontent.com/giorno420/RickrollingSeries/main/img/discordlogo.svg)](https://discord.giornosmp.com/)
+[![My Discord](https://raw.githubusercontent.com/giorno420/RickrollingSeries/main/discordlogo.svg)](https://discord.giornosmp.com/)
 
 
 # Rickrolling Series
